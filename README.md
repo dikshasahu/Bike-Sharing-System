@@ -9,14 +9,14 @@ To mitigate pandemic-related revenue losses, US bike-sharing leader BoomBikes is
 
 **Technologies Used**
 
--pandas
+- pandas
 
--seaborn
+- seaborn
 
--matplotlib
+- matplotlib
 
--statsmodels
+- statsmodels
 
--sci-kit learn
+- sci-kit learn
 
--numpy
+- numpy
